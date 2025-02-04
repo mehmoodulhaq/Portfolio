@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Portfolio](https://github.com/Harismehmoodulhaq/portfolio/blob/main/public/app-image.png)](https://www.mehmoodulhaq.permamotive.com/)
+[![My Portfolio](https://github.com/mehmoodulhaq/Portfolio/blob/main/public/app-image.png)](https://www.mehmoodulhaq.permamotive.com/)
 
 ## Table of Contents
 

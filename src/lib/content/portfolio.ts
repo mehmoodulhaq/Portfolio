@@ -25,7 +25,7 @@ export const seoData = {
     'Mehmoodul Haq is a full stack developer who specializes in building front-end websites and backend api',
   author: author.name,
   image:
-    'https://github.com/imharisaa/portfolio/blob/main/public/app-image.png',
+    'https://github.com/mehmoodulhaq/Portfolio/blob/main/public/app-image.png',
   url: 'https://www.mehmoodulhaq.permamotive.com',
   keywords: [
     'Mehmood',
