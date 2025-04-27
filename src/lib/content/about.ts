@@ -22,5 +22,5 @@ export const aboutSection: AboutSectionType = {
 
     ],
     },
-    img: '/mehmood.jpeg',
+    img: '/mehmood.png',
 };
